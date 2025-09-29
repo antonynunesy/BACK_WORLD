@@ -12,9 +12,9 @@ Salve o mundo da corrupção, supere puzzles e encontre o backup do mundo dentro
    Baixe em: [https://www.python.org/downloads/](https://www.python.org/downloads/).
 
 2. **Instale o Pygame**:
-  ```bash
-  pip install pygame
-  ```
+   ```bash
+   pip install pygame
+   ```
 3. **Instale o Git**
 
    Baixe em: [https://git-scm.com/downloads/](https://git-scm.com/downloads/).
@@ -27,6 +27,7 @@ Salve o mundo da corrupção, supere puzzles e encontre o backup do mundo dentro
 5. **Execute o jogo**
    ```bash
    python principal.py
+
 
 
 🎮 Controles

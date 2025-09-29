@@ -21,7 +21,7 @@ Salve o mundo da corrupção, supere puzzles e encontre o backup do mundo dentro
 
 4. **Clone este repositório:**
    ```bash
-   git clone https://github.com/antonynunnesy/BACK_WORLD.git
+   git clone https://github.com/antonynunesy/BACK_WORLD.git
    cd BACK_WORLD
    
 5. **Execute o jogo**

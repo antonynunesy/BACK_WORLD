@@ -1,6 +1,6 @@
 # BACK WORLD
 
-Um jogo em **Python + Pygame** desenvolvido por Victor Rafael e Antony Nunes.
+Um jogo em **Python + Pygame** desenvolvido por Victor Rafael e Antony Nunes.<br>
 Salve o mundo da corrupção, supere puzzles e encontre o backup do mundo dentro do **Memory Card**.
 
 ---
@@ -27,8 +27,8 @@ Salve o mundo da corrupção, supere puzzles e encontre o backup do mundo dentro
 5. **Execute o jogo**
    ```bash
    python principal.py
-
-
+   ```
+   
 
 🎮 Controles
 
